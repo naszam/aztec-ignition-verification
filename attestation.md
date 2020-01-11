@@ -2,5 +2,4 @@ Attestation:
 
 Message:https://www.aztecprotocol.com/ignition/participant/0x11064f2aadd3ee47f0e13d36d49762f3eac69c3f/?timestamp=1578760146035  
 Hash:0x972967eb99a7fbaf7a60dfce0e9a13c43a21f2bb6418c944ff818b183c16debd   
-
 Signature:0x8a3957f94a17e76caa88534f79b08b28befcde087d8584e0906c18b9e86581864f56fb43dd7114a7276100b6c8a2affca774cf903de5b1d0e28acce59b76d7cb1c  
